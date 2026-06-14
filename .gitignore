@@ -1,0 +1,35 @@
+# Build folders
+bin/
+obj/
+
+# Databases
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+
+# IDEs and Editors
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environments
+.env*.local
